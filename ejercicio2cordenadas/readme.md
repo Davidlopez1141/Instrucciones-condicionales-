@@ -17,6 +17,5 @@ Rechazada
 
 Verifca si una persona es apta para un prestamo bancario
 
-![Diagrama de flujo](diagrama.png"diagrama de flujo")
-
 # DISEÑO
+![Diagrama de flujo](diagrama.png "diagrama de flujo")

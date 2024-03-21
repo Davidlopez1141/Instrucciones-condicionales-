@@ -12,4 +12,7 @@ Eje x Eje y Origen Cuadrante 1 Cuadrante 2 Cuadrante 3 Cuadrante 4
 
 Nos indicara el punto exacto en el plano cartesiano
 
-# DISEÑO 
+# diseño 
+
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
+
